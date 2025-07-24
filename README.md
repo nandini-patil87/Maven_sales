@@ -1,6 +1,10 @@
 Maven Sales Analytics Project
 
-A complete data analytics and business intelligence project using **SQL**, **Python**, and **Power BI**, focused on uncovering insights from retail sales and returns data.
+A complete data analytics and business intelligence project using SQL, Python, and Power BI, focused on uncovering insights from retail sales and returns data.
+
+
+-Dataset link: https://github.com/Ayushi0214/Datasets/blob/main/classic_models_dataset.zip
+- Published PowerBI dashboard: https://app.powerbi.com/links/_QOt97-ZgE?ctid=05e819e6-1b14-4622-8d41-429c45f7365c&pbi_source=linkShare 
 
 Project Overview
 
